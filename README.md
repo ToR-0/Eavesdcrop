@@ -1,0 +1,2 @@
+# Eavesdcrop
+# This is Eavesdropping Program for Intercepting between the traffic of the client # Client/Victim should run the program on his computer, by connecting to the two servers  # One of the server's recieves the traffic, the other recieves the handshakes # This is Illegal, it purpose is to watch Remote Traffic, also called MiTM - Man In The Middle Attack # This is is for the beginners(script kiddies) - DO NOT USE THIS WITHOUT THE AUTHROIZATION OF THE VICTIM! # I don't have any responsibilities about the things that might happen
