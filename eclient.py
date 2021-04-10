@@ -1,5 +1,8 @@
-import scapy.all
-from scapy.all import * 
+try:
+	import scapy.all
+	from scapy.all import * 
+except:
+	os.system("pip3 install scapy")
 import socket
 import os
 import json
