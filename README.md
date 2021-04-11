@@ -4,7 +4,7 @@
 <p align="center"><h1> USAGE </h1></p>
 
 <ul>
-  <li> You should star the server(There are two options, make a new one from the framework, or just edit the stuff inside the code) </li>
+  <li> You should start the server(There are two options, make a new one from the framework, or just edit the stuff inside the code) </li>
   <ol>
     <li> It should listen </li>
   </ol>
